@@ -16,7 +16,7 @@ Subtask 1: Why did I choose to participate in a challenge portfolio?
 
 Hello my name is Iryna. 
 
-Recently the lifes of all Ukrainians changed.
+Recently the lives of all Ukrainians changed.
 
 And I decided that need to change my life and my job.
 
@@ -29,4 +29,6 @@ Thank you for this oportunity to start learning something new.
 I hope to find a job or intership and keep learning!
 
                      Iryna
+
+TASK 2: selectors
 >>>>>>> 01dfec6374fa8692b523120d24236485198dc44c
