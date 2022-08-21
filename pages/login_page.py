@@ -2,6 +2,11 @@
 #
 #
 # class LoginPage(BasePage):
+Scouts Panel
+//*[text()='Scouts Panel']
+//h5[starts-with(text(),'Scouts')]
+//h5[contains(text(),'Scouts')]
+
  login_field_xpath ="//*[@id='login']"
 //input[@name='login']
 //input[@type="text"]
@@ -11,7 +16,9 @@
 //*[@id="password"]
 //*[@name="password"]
 //*[@type="password"]
-
+Remind password="//*[text()='Remind password']"
+//a[contains(@class,'MuiTypography-root')]
+//a[contains(text(),'Remind')]
  sign_in_button_xpath = 'next' //*[@id="__next"]/form/div/div[2]/button/span[1]
 //*[@class="MuiButton-label"]
 //*[contains(@class,"MuiTouchRipple-root")]
